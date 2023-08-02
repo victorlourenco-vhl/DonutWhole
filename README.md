@@ -1,2 +1,2 @@
 # Donut Whole 🍩
-Vegan Donut is a project for training HTML and CSS
+Donut Whole is a project for training HTML and CSS
